@@ -13,6 +13,10 @@
 
 `docs/superpowers/` 下的 spec、plan 和 tasks 文档为 AI 辅助生成（brainstorming / planning 阶段产物），用于驱动 agentic 工作流实施，内容仅代表项目设计阶段的思考过程，后续实现以代码为准。
 
+## AI 协作规则
+
+本项目使用 AI 辅助开发，协作规则集中在 [AGENTS.md](AGENTS.md)（主要规则文件），[CLAUDE.md](CLAUDE.md) 为 Claude Code 的入口指引。
+
 ## 状态
 
 项目处于设计 / 实施早期，尚未有可运行代码。
